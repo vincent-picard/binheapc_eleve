@@ -27,5 +27,5 @@ avec la commande `sudo apt install git`.
 Le projet est fourni avec un fichier *Makefile* qui facilite sa compilation à l'aide des commandes suivantes :
 - `make` : compile l'ensemble du projet
 - `make test_arbre.exe` : compile seulement la partie arbre du projet
-- `make test_binheap.exe` : compile seulement le programme de test des arbres binomiaux
+- `make test_binheap.exe` : compile seulement le programme de test des tas binomiaux
 - `make clean` : supprime tous les fichiers compilés
